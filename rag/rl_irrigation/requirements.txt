@@ -1,0 +1,13 @@
+# rl_irrigation — Reinforcement Learning Irrigation Optimizer
+# Install inside your existing venv alongside RAG dependencies
+
+# ── Core RL framework ──────────────────────────────────────────────────────────
+gymnasium>=0.29.0
+stable-baselines3>=2.3.0
+
+# ── Numeric / scientific ───────────────────────────────────────────────────────
+numpy>=1.26.0
+
+# ── Optional: rich progress bars during training ───────────────────────────────
+tqdm>=4.66.0
+rich>=13.0.0

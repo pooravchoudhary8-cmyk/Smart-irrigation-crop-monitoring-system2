@@ -1,0 +1,42 @@
+{
+  "zone_A": {
+    "zone_id": "zone_A",
+    "name": "North Plot",
+    "area_sqm": 2000.0,
+    "sensor_id": "sensor_A1",
+    "crop_type": "Wheat",
+    "soil_type": "Loamy",
+    "position_x": 0.0,
+    "position_y": 0.0
+  },
+  "zone_B": {
+    "zone_id": "zone_B",
+    "name": "South Plot",
+    "area_sqm": 2000.0,
+    "sensor_id": "sensor_B1",
+    "crop_type": "Wheat",
+    "soil_type": "Loamy",
+    "position_x": 100.0,
+    "position_y": 0.0
+  },
+  "zone_C": {
+    "zone_id": "zone_C",
+    "name": "East Plot",
+    "area_sqm": 1500.0,
+    "sensor_id": null,
+    "crop_type": "Rice",
+    "soil_type": "Clay",
+    "position_x": 50.0,
+    "position_y": 80.0
+  },
+  "zone_D": {
+    "zone_id": "zone_D",
+    "name": "Center Plot",
+    "area_sqm": 1000.0,
+    "sensor_id": null,
+    "crop_type": "Wheat",
+    "soil_type": "Sandy",
+    "position_x": 50.0,
+    "position_y": 0.0
+  }
+}

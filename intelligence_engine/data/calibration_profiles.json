@@ -1,0 +1,20 @@
+{
+  "sensor_A1": {
+    "sensor_id": "sensor_A1",
+    "dry_value": 3800.0,
+    "wet_value": 1200.0,
+    "sensor_type": "capacitive",
+    "label": "Zone A Sensor",
+    "calibrated_at": "2026-02-24T04:40:03.777093",
+    "is_inverted": true
+  },
+  "sensor_B1": {
+    "sensor_id": "sensor_B1",
+    "dry_value": 500.0,
+    "wet_value": 3500.0,
+    "sensor_type": "resistive",
+    "label": "Zone B Sensor",
+    "calibrated_at": "2026-02-24T04:40:07.174997",
+    "is_inverted": false
+  }
+}

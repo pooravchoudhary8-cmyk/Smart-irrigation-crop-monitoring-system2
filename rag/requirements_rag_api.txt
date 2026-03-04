@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+google-generativeai
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+chromadb
+scikit-learn
+pandas
+numpy
+kagglehub
+httpx
+xgboost
+huggingface_hub
